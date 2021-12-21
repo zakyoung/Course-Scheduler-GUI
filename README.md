@@ -3,3 +3,7 @@ This project is a course scheduling GUI that is backed by a database that has fu
 
 Some images from the GUI: 
 ![](Screenshots/AddingSemester.png)
+![](Screenshots/SchedulingCourses.png)
+![](Screenshots/DisplayingCourses.png)
+![](Screenshots/DisplayingCourseStudents.png)
+![](Screenshots/Database.png)
