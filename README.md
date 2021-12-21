@@ -5,7 +5,7 @@ Some images from the GUI:
 
 
 
-<img src = "Screenshots/AddingSemester.png" width = 400>
+<img src = "Screenshots/AddingSemester.png" width = 700>
 ![](Screenshots/AddingSemester.png)
 ![](Screenshots/SchedulingCourses.png)
 ![](Screenshots/DisplayingCourses.png)
