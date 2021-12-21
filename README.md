@@ -6,8 +6,7 @@ Some images from the GUI:
 
 
 <img src = "Screenshots/AddingSemester.png" width = 700>
-![](Screenshots/AddingSemester.png)
-![](Screenshots/SchedulingCourses.png)
-![](Screenshots/DisplayingCourses.png)
-![](Screenshots/DisplayingCourseStudents.png)
-![](Screenshots/Database.png)
+<img src = "Screenshots/SchedulingCourses.png)" width = 700>
+<img src = "Screenshots/DisplayingCourses.png" width = 700>
+<img src = "Screenshots/DisplayingCourseStudents.png" width = 700>
+<img src = "Screenshots/Database.png" width = 700>
