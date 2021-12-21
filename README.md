@@ -5,8 +5,8 @@ Some images from the GUI:
 
 
 
-<img src = "Screenshots/AddingSemester.png" width = 700>
-<img src = "Screenshots/SchedulingCourses.png" width = 700>
-<img src = "Screenshots/DisplayingCourses.png" width = 700>
-<img src = "Screenshots/DisplayingCourseStudents.png" width = 700>
-<img src = "Screenshots/Database.png" width = 700>
+<img src = "Screenshots/AddingSemester.png" alt = "Adding Semester image" width = 700>
+<img src = "Screenshots/SchedulingCourses.png" alt = "Scheduling Courses image" width = 700>
+<img src = "Screenshots/DisplayingCourses.png" alt = "Displaying Courses image" width = 700>
+<img src = "Screenshots/DisplayingCourseStudents.png" alt = "Displaying Course Students image" width = 700>
+<img src = "Screenshots/Database.pngo" alt = "Database image" width = 700>
