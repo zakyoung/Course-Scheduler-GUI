@@ -9,4 +9,4 @@ Some images from the GUI:
 <img src = "Screenshots/SchedulingCourses.png" alt = "Scheduling Courses image" width = 700>
 <img src = "Screenshots/DisplayingCourses.png" alt = "Displaying Courses image" width = 700>
 <img src = "Screenshots/DisplayingCourseStudents.png" alt = "Displaying Course Students image" width = 700>
-<img src = "Screenshots/Database.pngo" alt = "Database image" width = 700>
+<img src = "Screenshots/Database.png" alt = "Database image" width = 700>
